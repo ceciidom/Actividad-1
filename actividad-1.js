@@ -1,6 +1,7 @@
 class claseA {
     foo = "foo";
-    bar = "bar"
+    bar = "bar";
+    lorem = "lorem"
 }
 
 class claseB {}
